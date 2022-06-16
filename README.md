@@ -30,7 +30,7 @@ This repository is for applying this method on [RuARG-2022](https://github.com/d
 ```bibtex
 @INPROCEEDINGS{chistova2022dialogue,
       author = {Chistova, E. and Smirnov, I.},
-      title = {Discourse-aware text classification for argument mining}},
+      title = {Discourse-aware text classification for argument mining},
       booktitle = {Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference "Dialogue" (2022)},
       year = {2022},
       number = {21},
