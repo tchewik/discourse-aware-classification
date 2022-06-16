@@ -27,6 +27,8 @@ This repository is for applying this method on [RuARG-2022](https://github.com/d
 
 ## Reference
 
+Further information and examples can be found in [our paper][https://www.dialog-21.ru/media/5651/chistovaeplussmirnovi.pdf]:
+
 ```bibtex
 @INPROCEEDINGS{chistova2022dialogue,
       author = {Chistova, E. and Smirnov, I.},
